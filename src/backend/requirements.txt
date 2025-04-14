@@ -172,7 +172,7 @@ opentelemetry-instrumentation-openai==0.33.9
     # via fastapi-app (pyproject.toml)
 opentelemetry-instrumentation-psycopg2==0.48b0
     # via azure-monitor-opentelemetry
-opentelemetry-instrumentation-requests==0.48b0
+opentelemetry-instrumentation-requests==0.53b0
     # via azure-monitor-opentelemetry
 opentelemetry-instrumentation-sqlalchemy==0.48b0
     # via fastapi-app (pyproject.toml)
